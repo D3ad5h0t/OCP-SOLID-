@@ -1,0 +1,12 @@
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/bin/Debug/netcoreapp3.1/PatternDemoCore.deps.json
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/bin/Debug/netcoreapp3.1/PatternDemoCore.runtimeconfig.json
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/bin/Debug/netcoreapp3.1/PatternDemoCore.runtimeconfig.dev.json
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/bin/Debug/netcoreapp3.1/PatternDemoCore.dll
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/bin/Debug/netcoreapp3.1/PatternDemoCore.pdb
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/obj/Debug/netcoreapp3.1/PatternDemoCore.csprojAssemblyReference.cache
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/obj/Debug/netcoreapp3.1/PatternDemoCore.csproj.CoreCompileInputs.cache
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/obj/Debug/netcoreapp3.1/PatternDemoCore.AssemblyInfoInputs.cache
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/obj/Debug/netcoreapp3.1/PatternDemoCore.AssemblyInfo.cs
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/obj/Debug/netcoreapp3.1/PatternDemoCore.dll
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/obj/Debug/netcoreapp3.1/PatternDemoCore.pdb
+/Users/tz1m1sk3/Dropbox/dotNet/Console/PatternDemoCore/PatternDemoCore/obj/Debug/netcoreapp3.1/PatternDemoCore.genruntimeconfig.cache
